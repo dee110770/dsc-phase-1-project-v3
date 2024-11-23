@@ -22,14 +22,14 @@ This project employs descriptive analysis to examine trends in aviation incident
 
 Our analysis reveals that airplanes have the highest number of injuries and incidents, indicating significant safety concerns. Helicopters and gliders also show notable incidents, but in much smaller numbers compared to airplanes. Additionally, many incidents occur under favorable weather conditions, emphasizing the need for robust safety measures even in clear weather.
 
-Our analysis shows also shows that airplanes have the highest number of non-fatal injuries, nearing 40,000, significantly more than other aircraft types. Despite this, there is a downward trend in airplane accidents over the years, likely due to improved safety measures and maintenance practices. Helicopters, Ultralights, and Gliders have fewer injuries compared to airplanes, with categories like Balloons and Blimps showing the least number of injuries.
+Our analysis also shows that airplanes have the highest number of non-fatal injuries, nearing 40,000, significantly more than other aircraft types. Despite this, there is a downward trend in airplane accidents over the years, likely due to improved safety measures and maintenance practices. Helicopters, Ultralights, and Gliders have fewer injuries compared to airplanes, with categories like Balloons and Blimps showing the least number of injuries.
 
 ## Conclusions
 
 - Incident Trends- Airplanes show a steady decline in incidents despite high traffic, reflecting improved safety protocols and the importance of regular maintenance.
 
 - Aircraft Categories: Different aircraft types, like helicopters and gliders, have varying risk levels; buyers should align choices with operational needs and safety records.
-- 
+ 
 -Safety Factors: Incidents in favorable weather highlight the need for strong safety measures and comprehensive pilot training.
 
 ### Next Steps 

@@ -28,17 +28,17 @@ Our analysis also shows that airplanes have the highest number of non-fatal inju
 
 - Incident Trends- Airplanes show a steady decline in incidents despite high traffic, reflecting improved safety protocols and the importance of regular maintenance.
 
-- Aircraft Categories: Different aircraft types, like helicopters and gliders, have varying risk levels; buyers should align choices with operational needs and safety records.
+- Aircraft Categories- Different aircraft types, like helicopters and gliders, have varying risk levels; buyers should align choices with operational needs and safety records.
   
-- Safety Factors: Incidents in favorable weather highlight the need for strong safety measures and comprehensive pilot training.
+- Safety Factors- Incidents in favorable weather highlight the need for strong safety measures and comprehensive pilot training.
 
 ### Next Steps 
 
-- Weather Analysis: Investigate how specific weather conditions contribute to incidents and develop predictive models to mitigate risks, such as rerouting during adverse conditions.
+- Weather Analysis- Investigate how specific weather conditions contribute to incidents and develop predictive models to mitigate risks, such as rerouting during adverse conditions.
 
-- Interactive Dashboards: Build visual tools to explore safety trends across aircraft categories, models, and flight phases, highlighting traffic and injury patterns over time.
+- Interactive Dashboards -Build visual tools to explore safety trends across aircraft categories, models, and flight phases, highlighting traffic and injury patterns over time.
 
-- Geographic Analysis: Visualize how incident locations correlate with injury severity and aircraft safety records.
+- Geographic Analysis- Visualize how incident locations correlate with injury severity and aircraft safety records.
 
 ## For More Information
 
